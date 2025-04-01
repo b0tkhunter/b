@@ -2667,7 +2667,7 @@ ul, li
 
 .header-mach .header-logo .img-logo
 {
-  height: 1.3rem;
+  height: 2.3rem;
   transition: var(--transitions);
 }
 
@@ -2675,7 +2675,7 @@ ul, li
 {
   .header-mach .header-logo .img-logo
   {
-    height: 1.5rem;
+    height: 2.5rem;
   }
 }
 
